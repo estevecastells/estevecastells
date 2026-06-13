@@ -95,3 +95,5 @@ esteve@internet:~$ ./contact.sh --open
 <sub><code>// always up for talking SEO, AI search, domains & weird web infra</code></sub>
 
 </div>
+
+<!-- profile -->
