@@ -67,14 +67,15 @@ drwxr-xr-x  domscan/     🟢 live   developer-first domain intelligence API
 
 ## `$ git log --author=esteve --contributions`
 
+> **Fixing bugs in the apps & tools I actually use** · scratch the itch, send the patch upstream 🔧
+
 ```console
-* commit  micelio-crawler   enterprise-grade SEO crawler in Go — single binary, web dashboard
-|          ↳ chip in over at jlhernando/micelio-crawler 🐹
-|
-* commit  Telegram-iOS      "fixing all the bugs since it sucks" — pushed 0 commits (jk 😄)
+* commit  Telegram-iOS     fix media silently not saving to Photos + AirPlay audio routing
+* commit  openai/codex     squashing bugs in the terminal coding agent I live in
+* commit  micelio-crawler  PageRank + Cloudflare log fixes for the Go SEO crawler I run
 ```
 
-[`→ jlhernando/micelio-crawler`](https://github.com/jlhernando/micelio-crawler) · [`→ Telegram-iOS`](https://github.com/estevecastells/Telegram-iOS)
+[`→ Telegram-iOS #2186`](https://github.com/TelegramMessenger/Telegram-iOS/pull/2186) · [`→ #2109`](https://github.com/TelegramMessenger/Telegram-iOS/pull/2109) · [`→ openai/codex`](https://github.com/openai/codex) · [`→ micelio-crawler`](https://github.com/jlhernando/micelio-crawler/pulls?q=author%3Aestevecastells)
 
 ---
 
