@@ -9,7 +9,7 @@
 ```
 
 <a href="https://github.com/estevecastells">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=620&height=45&lines=Making+stuff+on+the+Internet;SEO+%C3%97+AI+search+%C3%97+Domains;building+llm-pulse+%C2%B7+domscan" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=620&height=45&lines=Making+stuff+on+the+Internet;SEO+%C3%97+AI+search+%C3%97+Internet+intelligence;building+llm-pulse+%C2%B7+domscan" alt="typing" />
 </a>
 
 <br/>
@@ -49,7 +49,7 @@ drwxr-xr-x  domscan/     🟢 live   Internet intelligence for developers & AI a
 | Project | What it does | Links |
 |:--|:--|:--|
 | **🛰️ LLM Pulse** | Your radar for AI search. Track brand **share-of-voice, citations & sentiment** across ChatGPT, Perplexity, Google AI Overviews & AI Mode — the Ahrefs for LLMs. | [![site](https://img.shields.io/badge/llmpulse.ai-00FF9C?style=flat-square&logo=icloud&logoColor=0D1117)](https://llmpulse.ai) |
-| **🔍 DomScan** | One edge API for everything domains — availability, WHOIS/RDAP, DNS, SSL, valuation & brand risk across **1,500+ TLDs**, sub-100ms. 30+ endpoints + MCP. | [![site](https://img.shields.io/badge/domscan.net-00FF9C?style=flat-square&logo=icloud&logoColor=0D1117)](https://domscan.net) |
+| **🔍 DomScan** | **Internet intelligence for developers & AI agents**: availability, WHOIS/RDAP, DNS, SSL, valuation & brand risk across **1,500+ TLDs**, sub-100ms. 30+ endpoints + MCP. | [![site](https://img.shields.io/badge/domscan.net-00FF9C?style=flat-square&logo=icloud&logoColor=0D1117)](https://domscan.net) |
 
 <br/>
 
@@ -61,7 +61,9 @@ drwxr-xr-x  domscan/     🟢 live   Internet intelligence for developers & AI a
 |:--|:--|:--|
 | **[domscan-cli](https://github.com/estevecastells/domscan-cli)** · **[domscan-sdk](https://github.com/estevecastells/domscan-sdk)** | Official command-line client + SDK for the DomScan API. | ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) ![JS](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) |
 | **[llmpulse-cli](https://github.com/LLM-Pulse/llmpulse-cli)** · **[llmpulse SDKs](https://github.com/orgs/LLM-Pulse/repositories?q=llmpulse-)** | Official command-line client + SDKs for the LLM Pulse API in **12 languages** (TypeScript, Python, Go, Rust, Ruby, PHP, Java, Kotlin, Swift, C#, Dart, R). | ![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=CE422B) ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) ![PY](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB) |
+| **[domscan-mcp](https://github.com/estevecastells/domscan-mcp)** · **[llmpulse-mcp](https://github.com/estevecastells/llmpulse-mcp)** | **MCP servers** that plug DomScan & LLM Pulse into Claude, Cursor, VS Code and any MCP client: domain lookups and AI-visibility data straight from your agent. | ![MCP](https://img.shields.io/badge/MCP-0D1117?style=flat-square&logo=modelcontextprotocol&logoColor=00FF9C) ![JS](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) |
 | **[uptime-monitoring-workers](https://github.com/estevecastells/uptime-monitoring-workers)** | Lightweight uptime monitoring that runs on Cloudflare Workers. Cheap, fast, no servers. | ![CF](https://img.shields.io/badge/Cloudflare_Workers-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020) |
+| **[geostess](https://github.com/estevecastells/geostess)** | Free geography game built in the open: countries, cities, flags & population rounds. Solo, pass-and-play up to 10 players, or online rooms. Offline-ready PWA. | ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) ![CF](https://img.shields.io/badge/Cloudflare_Workers-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020) |
 | **[awesome-ai-search](https://github.com/estevecastells/awesome-ai-search)** | My curated list of tools, platforms & resources for **AI search, GEO & AEO**. | ![List](https://img.shields.io/badge/Awesome_List-0D1117?style=flat-square&logo=awesomelists&logoColor=FC60A8) |
 | **[awesome-domain-intelligence](https://github.com/estevecastells/awesome-domain-intelligence)** | My curated list of **domain intelligence** tooling: DNS, WHOIS/RDAP, SSL, subdomains, valuation & brand protection. | ![List](https://img.shields.io/badge/Awesome_List-0D1117?style=flat-square&logo=awesomelists&logoColor=FC60A8) |
 
