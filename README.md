@@ -43,7 +43,7 @@ esteve@internet:~$ uptime
 
 ```console
 drwxr-xr-x  llm-pulse/   🟢 live   AI search visibility & GEO platform
-drwxr-xr-x  domscan/     🟢 live   developer-first domain intelligence API
+drwxr-xr-x  domscan/     🟢 live   Internet intelligence for developers & AI agents
 ```
 
 | Project | What it does | Links |
@@ -61,20 +61,24 @@ drwxr-xr-x  domscan/     🟢 live   developer-first domain intelligence API
 |:--|:--|:--|
 | **[domscan-cli](https://github.com/estevecastells/domscan-cli)** · **[domscan-sdk](https://github.com/estevecastells/domscan-sdk)** | Official command-line client + SDK for the DomScan API. | ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) ![JS](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) |
 | **[uptime-monitoring-workers](https://github.com/estevecastells/uptime-monitoring-workers)** | Lightweight uptime monitoring that runs on Cloudflare Workers. Cheap, fast, no servers. | ![CF](https://img.shields.io/badge/Cloudflare_Workers-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020) |
+| **[awesome-ai-search](https://github.com/estevecastells/awesome-ai-search)** | My curated list of tools, platforms & resources for **AI search, GEO & AEO**. | ![List](https://img.shields.io/badge/Awesome_List-0D1117?style=flat-square&logo=awesomelists&logoColor=FC60A8) |
+| **[awesome-domain-intelligence](https://github.com/estevecastells/awesome-domain-intelligence)** | My curated list of **domain intelligence** tooling: DNS, WHOIS/RDAP, SSL, subdomains, valuation & brand protection. | ![List](https://img.shields.io/badge/Awesome_List-0D1117?style=flat-square&logo=awesomelists&logoColor=FC60A8) |
 
 <br/>
 
 ## `$ git log --author=esteve --contributions`
 
-> **Fixing bugs in the apps & tools I actually use** · scratch the itch, send the patch upstream 🔧
+> **Fixing bugs in the apps, tools & projects I actually use** · scratch the itch, send the patch upstream 🔧
 
 ```console
 * commit  Telegram-iOS     fix media silently not saving to Photos + AirPlay audio routing
 * commit  openai/codex     squashing bugs in the terminal coding agent I live in
 * commit  micelio-crawler  PageRank + Cloudflare log fixes for the Go SEO crawler I run
+* commit  CodexBar         lazy-load Codex token histories so the cost panel stays light
+* commit  Softcatalà       SEO, structured data + sitemap fixes for the Catalan non-profit
 ```
 
-[`→ Telegram-iOS #2186`](https://github.com/TelegramMessenger/Telegram-iOS/pull/2186) · [`→ #2109`](https://github.com/TelegramMessenger/Telegram-iOS/pull/2109) · [`→ openai/codex`](https://github.com/openai/codex) · [`→ micelio-crawler`](https://github.com/jlhernando/micelio-crawler/pulls?q=author%3Aestevecastells)
+[`→ Telegram-iOS #2186`](https://github.com/TelegramMessenger/Telegram-iOS/pull/2186) · [`→ #2109`](https://github.com/TelegramMessenger/Telegram-iOS/pull/2109) · [`→ openai/codex`](https://github.com/openai/codex) · [`→ micelio-crawler`](https://github.com/jlhernando/micelio-crawler/pulls?q=author%3Aestevecastells) · [`→ steipete/CodexBar #3297`](https://github.com/steipete/CodexBar/pull/3297) · [`→ Softcatalà`](https://github.com/search?q=org%3ASoftcatala+author%3Aestevecastells+type%3Apr)
 
 ---
 
