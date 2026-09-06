@@ -9,7 +9,7 @@
 ```
 
 <a href="https://github.com/estevecastells">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=620&height=45&lines=Making+stuff+on+the+Internet;SEO+%C3%97+AI+search+%C3%97+Domains;building+llm-pulse+%C2%B7+domscan+%C2%B7+openadscan" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=620&height=45&lines=Making+stuff+on+the+Internet;SEO+%C3%97+AI+search+%C3%97+Domains;building+llm-pulse+%C2%B7+domscan" alt="typing" />
 </a>
 
 <br/>
@@ -59,7 +59,6 @@ drwxr-xr-x  domscan/     🟢 live   developer-first domain intelligence API
 
 | Repo | What it does | Stack |
 |:--|:--|:--|
-| **[openadscan](https://github.com/estevecastells/openadscan)** | Self-hosted brand presence & SEO/SEM intelligence — the free, open-source alternative to Adthena. Deploys to your own Cloudflare. | ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) |
 | **[domscan-cli](https://github.com/estevecastells/domscan-cli)** · **[domscan-sdk](https://github.com/estevecastells/domscan-sdk)** | Official command-line client + SDK for the DomScan API. | ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) ![JS](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) |
 | **[uptime-monitoring-workers](https://github.com/estevecastells/uptime-monitoring-workers)** | Lightweight uptime monitoring that runs on Cloudflare Workers. Cheap, fast, no servers. | ![CF](https://img.shields.io/badge/Cloudflare_Workers-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020) |
 
