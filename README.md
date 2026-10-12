@@ -9,7 +9,7 @@
 ```
 
 <a href="https://github.com/estevecastells">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=620&height=45&lines=Making+stuff+on+the+Internet;SEO+%C3%97+AI+search+%C3%97+Internet+intelligence;building+llm-pulse+%C2%B7+domscan" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=620&height=45&lines=Making+stuff+on+the+Internet;SEO+%C3%97+AI+search+%C3%97+Internet+intelligence;building+llm-pulse+%C2%B7+domscan+%C2%B7+invokely" alt="typing" />
 </a>
 
 <br/>
@@ -44,12 +44,14 @@ esteve@internet:~$ uptime
 ```console
 drwxr-xr-x  llm-pulse/   🟢 live   AI search visibility & GEO platform
 drwxr-xr-x  domscan/     🟢 live   Internet intelligence for developers & AI agents
+drwxr-xr-x  invokely/    🟢 live   Official statistics for people & AI agents
 ```
 
 | Project | What it does | Links |
 |:--|:--|:--|
 | **🛰️ LLM Pulse** | Your radar for AI search. Track brand **share-of-voice, citations & sentiment** across ChatGPT, Perplexity, Google AI Overviews & AI Mode — the Ahrefs for LLMs. | [![site](https://img.shields.io/badge/llmpulse.ai-00FF9C?style=flat-square&logo=icloud&logoColor=0D1117)](https://llmpulse.ai) |
 | **🔍 DomScan** | **Internet intelligence for developers & AI agents**: availability, WHOIS/RDAP, DNS, SSL, valuation & brand risk across **1,500+ TLDs**, sub-100ms. 30+ endpoints + MCP. | [![site](https://img.shields.io/badge/domscan.net-00FF9C?style=flat-square&logo=icloud&logoColor=0D1117)](https://domscan.net) |
+| **📊 Invokely** | **Official, sourced statistics for people & AI agents**: population, GDP, inflation, jobs, income, housing & AI adoption. Free charts and rankings; MCP + REST with citations. Worldwide, US states/counties, EU regions & Spanish municipalities. | [![site](https://img.shields.io/badge/invokely.ai-00FF9C?style=flat-square&logo=icloud&logoColor=0D1117)](https://invokely.ai) |
 
 <br/>
 
